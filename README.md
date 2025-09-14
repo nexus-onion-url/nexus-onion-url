@@ -3,9 +3,9 @@
 
 Finding a trusted and verified **Nexus onion URL** is crucial for anyone wishing to access the Nexus darknet market securely and anonymously. As darknet marketplaces change addresses often, it’s essential to use only official links to protect your privacy and funds. Here, you'll discover what the Nexus Market offers, why official onion URLs matter, and how to use them safely.
 
-[<img src="/extensions/light.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/extensions/light.webp" width="200">](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/extensions/bright.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/extensions/bright.webp" alt="image" style="max-width: 100%;"></a>
 
 
 ## What is the Nexus Market?
@@ -17,7 +17,7 @@ The **Nexus Market** is a leading darknet marketplace known for its advanced sec
 To access the Nexus darknet market, always use an authenticated **Nexus onion URL**. Using the correct onion address is key to avoiding phishing sites and ensuring secure access.
 
 **Official Nexus Onion URL:**  
-http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion
 
 *Always verify any Nexus onion URL with trusted resources or darknet forums before logging in.*
 
@@ -47,5 +47,7 @@ The correct **Nexus onion URL** provides secure, anonymous access to one of the 
 
 **Access the Nexus Market with a verified Nexus onion URL for ultimate security and privacy.**
 ```
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/extensions/frame.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/extensions/see.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/extensions/frame.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/extensions/see.webp" style="max-width: 100%;"></a>
+
+Update:  14 September
