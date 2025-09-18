@@ -50,4 +50,6 @@ The correct **Nexus onion URL** provides secure, anonymous access to one of the 
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/extensions/frame.webp" style="max-width: 100%;"></a>
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/extensions/see.webp" style="max-width: 100%;"></a>
 
-Update:  14 September
+
+
+Update:  09/18/2025
